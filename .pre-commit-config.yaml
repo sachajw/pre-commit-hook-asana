@@ -1,0 +1,5 @@
+repos:
+  - repo: https://github.com/sachajw/pre-commit-asana
+    rev: v0.1.0 # Use the latest version
+    hooks:
+      - id: register-asana-commits
